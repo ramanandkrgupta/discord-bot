@@ -4,14 +4,15 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "start": "nodemon index.mjs"
+    "start": "node index.mjs"
   },
-  "author": "",
+  "author": "Ramanand Kumar Gupta",
   "license": "ISC",
-  "description": "",
+  "description": "This is is a Discord Bot repo where bot can reply message when new message . ",
   "dependencies": {
     "discord.js": "^14.15.3",
     "dotenv": "^16.4.5",
-    "nodemon": "^3.1.4"
+    "nodemon": "^3.1.4",
+    "readme-md-generator": "^1.0.0"
   }
 }
